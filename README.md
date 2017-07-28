@@ -1,4 +1,4 @@
-# Utiliza um terminal, sério... Agora!
+# Utilize um terminal, sério... Agora!
 
 Se você é programador e não passa boa parte do seu tempo na frente de uma tela preta com letras verdes, você está fazendo algo muito errado!
 
