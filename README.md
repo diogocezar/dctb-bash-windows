@@ -4,15 +4,7 @@ Se você é programador e não passa boa parte do seu tempo na frente de uma tel
 
 Um programador nos dias atuais precisa saber o mínimo de comandos bash para criar, editar, customizar e publicar os seus projetos.
 
-Por isso é importante que você tenha acesso a um terminal, de preferência um terminal Linux.
-
-Ah, mas vc ainda usa Windows Lixo!
-
-É, ainda preciso do Photoshop e do Illustrator.
-
-E muita gente, não tem grana para o Mac :P
-
-Então acho que vale a pena, ou até mesmo como um alternativa caso você precise usar as coisas no Windows.
+Por isso é importante que você tenha acesso a um terminal (de preferência um terminal Linux).
 
 PS. Peguei algumas informações daqui!
 
