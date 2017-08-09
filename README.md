@@ -1,5 +1,5 @@
 # Utilize um terminal, sério... Agora!
-
+aaaaaa
 Se você é programador e não passa boa parte do seu tempo na frente de uma tela preta com letras verdes, você está fazendo algo muito errado!
 
 Um programador nos dias atuais precisa saber o mínimo de comandos bash para criar, editar, customizar e publicar os seus projetos.
