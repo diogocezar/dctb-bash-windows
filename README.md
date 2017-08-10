@@ -48,6 +48,12 @@ http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/04/como-instalar-e-usa
 
 Feita a instalação, para abrir o Bash, basta abrir o menu Iniciar e procurar por “Ubuntu (sem as aspas) e clicar nessa opção.
 
+## Colocando um atalho para abrir o bash em qualquer diretório
+
+Seguindo os passos aqui: https://www.tenforums.com/tutorials/60125-open-bash-window-here-context-menu-add-windows-10-a.html
+
+Você verá como alterar adicionar uma modificação ao registro do windows, permitindo que se abra o bash em qualquer diretório, clicando com o botão direito do mouse ;)
+
 ## O que configurar?
 
 Bom vamos a algumas configurações pessoas que faço para deixar o seu bash completão!
